@@ -2,8 +2,8 @@ export const SITE = {
   website: "https://blog-delta-ten-53.vercel.app/", // replace this with your deployed domain
   author: "ConvolutedDog",
   profile: "https://github.com/ConvolutedDog",
-  desc: "ConvolutedDog'blog",
-  title: "Blog - ConvolutedDog",
+  desc: "Blog - ConvolutedDog",
+  title: "ConvolutedDog'blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
