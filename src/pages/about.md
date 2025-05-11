@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm fascinated by making deep learning systems faster - from tweaking framework internals to squeezing out every bit of hardware performance. My current playground spans PyTorch operators, compiler tricks, and GPU/FPGA acceleration.
+<!-- I'm fascinated by making deep learning systems faster - from tweaking framework internals to squeezing out every bit of hardware performance. My current playground spans PyTorch operators, compiler tricks, and GPU/FPGA acceleration. -->
 
 <div>
   <img src="/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
