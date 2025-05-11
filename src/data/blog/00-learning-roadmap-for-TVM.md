@@ -5,6 +5,7 @@ modDatetime: 2025-05-11T15:22:00Z
 title: Learning Roadmap for TVM
 featured: true
 draft: false
+slug: learning-roadmap-for-tvm
 tags:
   - TVM
 description:
